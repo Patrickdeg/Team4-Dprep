@@ -1,3 +1,5 @@
+This reciprocity contains files for the team 4 project of the course Data Preparation and Workflow Management at the Tilburg University. 
+
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
